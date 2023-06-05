@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yRFhodsRfHpYpcMNRQbm+uzltaqxHbpo9RSFxyZ6w7WbVPL/X8Po31VF64QRcuFpQ7NKt8ZjFgMU6XESAlxXGA==",
+  "success": true,
+  "projectFilePath": "D:\\KPI\\.NET\\Lab5_Behaviorial_Design_Patterns\\Lab5\\UIL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\artom\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\artom\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

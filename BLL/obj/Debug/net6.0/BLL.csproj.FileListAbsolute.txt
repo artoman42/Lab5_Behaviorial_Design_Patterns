@@ -1,0 +1,12 @@
+D:\KPI\.NET\Lab5_Behaviorial_Design_Patterns\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\KPI\.NET\Lab5_Behaviorial_Design_Patterns\BLL\bin\Debug\net6.0\BLL.dll
+D:\KPI\.NET\Lab5_Behaviorial_Design_Patterns\BLL\bin\Debug\net6.0\BLL.pdb
+D:\KPI\.NET\Lab5_Behaviorial_Design_Patterns\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\KPI\.NET\Lab5_Behaviorial_Design_Patterns\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPI\.NET\Lab5_Behaviorial_Design_Patterns\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\KPI\.NET\Lab5_Behaviorial_Design_Patterns\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\KPI\.NET\Lab5_Behaviorial_Design_Patterns\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\KPI\.NET\Lab5_Behaviorial_Design_Patterns\BLL\obj\Debug\net6.0\BLL.dll
+D:\KPI\.NET\Lab5_Behaviorial_Design_Patterns\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\KPI\.NET\Lab5_Behaviorial_Design_Patterns\BLL\obj\Debug\net6.0\BLL.pdb
+D:\KPI\.NET\Lab5_Behaviorial_Design_Patterns\BLL\obj\Debug\net6.0\ref\BLL.dll
